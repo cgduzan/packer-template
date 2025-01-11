@@ -29,6 +29,8 @@ Build the image(s):
 packer build .
 ```
 
+Once completed (will take ~5-10 minutes), you should have 2 new images in your AMI instances in the `us-west-2` region (assuming you haven't changed the config).
+
 ## Packer commands reference
 
 | Command | Description |
