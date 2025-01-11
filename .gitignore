@@ -1,0 +1,2 @@
+# ignore the Vagrant boxes created if enabled in the Packer file
+*.box
