@@ -31,10 +31,9 @@ packer build .
 
 ## Packer commands reference
 
-`packer init .` - initialize the Packer configuration by installing any required plugins
-
-`packer fmt .` - format the Packer configuration
-
-`packer validate .` - validate the Packer configuration
-
-`packer build .` - run the Packer build
+| Command | Description |
+| --- | --- |
+| `packer init .` | Initialize the Packer configuration by installing any required plugins |
+| `packer fmt .` | Format the Packer configuration |
+| `packer validate .` | Validate the Packer configuration |
+| `packer build .` | Build the image(s) |
