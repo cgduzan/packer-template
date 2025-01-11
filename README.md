@@ -1,5 +1,5 @@
 # Packer - AWS Template
-This is a Packer (Hashicorp) template to use for quick reference. It creates AMI's in AWS.
+This is a [Packer (Hashicorp)](https://developer.hashicorp.com/packer) template to use for quick reference. It creates AMI's in AWS.
 
 The `aws-ubuntu.pkr.hcl` config file was built following [Packer's AWS tutorial](https://developer.hashicorp.com/packer/tutorials/aws-get-started/get-started-install-cli). I've added comments in the file to describe the different components of Packer and how they're utilized.
 
