@@ -1,9 +1,3 @@
-# Packer commands reference:
-# - `packer init .` - initialize the Packer configuration by installing any required plugins
-# - `packer fmt .` - format the Packer configuration
-# - `packer validate .` - validate the Packer configuration
-# - `packer build .` - run the Packer build
-
 # - tell Packer to install plugins required for the source & build steps
 packer {
   required_plugins {
